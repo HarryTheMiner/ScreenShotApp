@@ -1,4 +1,4 @@
-📸 Tkinter Screenshot Capture Tool<br>
+📸<b> Tkinter Screenshot Capture Tool<b><br>
 This Python script creates a simple GUI-based Screenshot Tool using Tkinter and PyAutoGUI. The application provides a button to capture a screenshot after a 5-second delay and save it with a timestamped filename in the specified directory. The GUI consists of two buttons:<br>
 
 "Take Screen-Shot" – Captures and displays the screenshot.<br>
